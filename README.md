@@ -1,3 +1,11 @@
+**Note for this repository:**
+
+There hasn't been an update in the old repository for a long time.
+
+I will merge PRs here if they make sense to my eye. Please make sure to describe in detail what the PR does and how to test it.
+
+<hr>
+
 twmn
 ====
 A notification system for tiling window managers. `twmn` is two things:
